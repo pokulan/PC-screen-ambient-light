@@ -10,4 +10,6 @@ Code is not pretty because I made it for myself, it wil be hard for newbies to e
 - Glue ambient LED strip to you monitor. First LED is in the right bottom corner and goes to left <- then up ^, right -> and down v.
 # .bat file
 You can run python app simply opening the .bat file. You can also create a shortcut to this file and put it to startup.
+# Serial port
+Remember to change in device manager serial port of your arduino/uart to for example COM12/COM30 etc and set it up in config.cfg
 
