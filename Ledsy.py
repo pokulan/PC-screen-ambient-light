@@ -482,7 +482,6 @@ if __name__ == "__main__":
             values = bytearray(data)
             try:
                 s = serial.Serial(PORT, 115200, timeout=0)
-                s.write(b'Z1')
                 s.write(values)
                 s.close()
             except:
