@@ -1,2 +1,2 @@
 # PC-screen-ambient-light
-Code and readme on branch: *master*
+Code and readme is on branch: *master*
